@@ -26,13 +26,13 @@ If the need arises, particular versions will get their own branches, but until t
 
 ## Reading Lists
 
-*Viewed Reading List
-*Viewed Reading List item
+ * Viewed Reading List
+ * Viewed Reading List item
 
 ## Authentication Systems
 
-*Logged in
+ * Logged in
 
 ## Attendance 
 
-* Visited Library
+ * Visited Library
