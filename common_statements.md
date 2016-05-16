@@ -12,7 +12,7 @@ Account is the internal identifier used by the VLE.
         "name": "Test",
         "account": {
             "name": "Test",
-            "homePage": "https://courses.alpha.jisc.ac.uk/moodle"
+            "homePage": "https://system.alpha.jisc.ac.uk/readinglists"
         }
     },
 ```
