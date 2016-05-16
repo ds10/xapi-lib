@@ -28,16 +28,6 @@ objects for:
 | Application   | Represents any kind of software application   | [ http://activitystrea.ms/schema/1.0/application](http://activitystrea.ms/schema/1.0/application)  	|[Logged in](recipes/login.md#complete_example) |
 
 
-Usage:
-
-atomic values for:
-
-| VLE forum  	| A VLE forum/discussion board   | http://xapi.jisc.ac.uk/vle/forum |                                              |[A forum](http://moodle.data.alpha.jisc.ac.uk/mod/forum/view.php?id=12)| [Discussion board](https://jisc.blackboard.com/webapps/discussionboard/do/forum?action=list_threads&course_id=_144_1&forum_id=81&nav=discussion_board&conf_id=_164_1&content_id=_218_1&mode=view)  |
-| External URL  | An external URL                | http://xapi.jisc.ac.uk/externalURL | | | 
-| File   | Accessing any kind of non-web native file type. e.g. MS office, video or audio.           | http://xapi.jisc.ac.uk/vle/file | | | 
-
-
-
 ### Context
 
 Usage:
