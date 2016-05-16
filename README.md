@@ -23,3 +23,16 @@ If the need arises, particular versions will get their own branches, but until t
 * [Common Structures] (common_statements.md)
 
 # Recipes
+
+## Reading Lists
+
+*Viewed Reading List
+*Viewed Reading List item
+
+## Authentication Systems
+
+*Logged in
+
+## Attendance 
+
+* Visited Library
