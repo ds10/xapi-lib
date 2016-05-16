@@ -1,4 +1,8 @@
-#xAPI recipes for the Jisc Learning Analytics Project v0.2
+#xAPI Library recipes for the Jisc Learning Analytics Project v0.1
+
+see also:
+* [VLE Recipies] (https://github.com/jiscdev/xapi-vle)
+
 
 ##Repository Workflow
 The simplest way of contributing xAPI recipes works as follows:
